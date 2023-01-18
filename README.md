@@ -9,4 +9,9 @@
  
  <br> <br />
  ![Screenshot](user-managment.png)
+ 
+ **Implicit Grant type:**
+ 
+ <br> <br />
+ ![Screenshot](Implicit-grant-type.png)
 
