@@ -20,7 +20,7 @@ public class LoginController {
 
     @Autowired
     private PasswordEncoder passwordEncoder;
-
+    
     @PostMapping("/register")
     public ResponseEntity<String> registerUser(@RequestBody Customer customer) {
         Customer savedCustomer = null;
